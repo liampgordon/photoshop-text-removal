@@ -20,7 +20,7 @@ This project combines Apple's Vision framework with Photoshop scripting to autom
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/photoshop-text-removal.git
+git clone https://github.com/liampgordon/photoshop-text-removal.git
 cd photoshop-text-removal
 ./scripts/install.sh
 ```
